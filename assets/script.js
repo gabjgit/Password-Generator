@@ -101,7 +101,7 @@ function getRandom(arr) {
 // Function to generate password with user input
 function generatePassword() {
 let genPwd=prompt("How many characters would you like?")
-return
+return genPwd
 }
 
 // Get references to the #generate element
